@@ -1,0 +1,48 @@
+html{
+  font-size: 14px;
+  font-family: "Work Sans", sans-serif;
+  background-color: rgb(255, 242, 242);
+}
+
+body{
+  margin-top: 5.25rem;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: rgb(32, 64, 86);
+  font-family: "Work Sans", sans-serif;
+
+}
+
+h4{
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 1.25rem 0rem;
+}
+
+p{
+  color: rgb(74, 74, 74);
+}
+
+.card{
+  height: 12.5rem;
+  width: 12.5rem;
+  background-color: rgb(32, 64, 86);
+  border: 4px solid #fff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.faceup{
+  color:rgb(255, 255, 255);
+  font-size: 7rem;
+  font-weight: 900;
+  text-align: center;
+}
+
+.matched{
+  color: rgb(204, 204, 204);
+  background-color: rgb(153, 153, 153);
+}
